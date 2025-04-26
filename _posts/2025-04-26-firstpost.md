@@ -5,7 +5,7 @@ categories: [hello,world]
 tags: [initial,demo]
 ---
 
-# Hello World
+This is a demo-post.
 
 ```ruby
 puts "it works"
